@@ -10,4 +10,4 @@ Dependencies:
   - Python libraries: `numpy`, `easygui`, `indicoio`
   - Other: ffmpeg
 
-Emovi was created at HackBeanpot 2016 by Daniel Cohen and Nick Westin, and won the "Most Fun Idea" award.
+This was created at HackBeanpot 2016.
